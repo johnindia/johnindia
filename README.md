@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @johnindia
+- 👀 I’m interested in building alexa skill 
+- 📫 How to reach me trainers.world@gmail.com
